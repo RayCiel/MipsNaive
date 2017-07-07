@@ -1,0 +1,94 @@
+﻿生成启动时间为 2017/7/6 22:44:08。
+     1>项目“D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\MIPS\MIPS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt mips1.cpp
+         mips1.cpp
+     1>mips1.cpp(336): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(337): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(338): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(340): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(342): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(344): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(345): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(346): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(347): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(348): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(397): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(423): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(424): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(425): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(427): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(429): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(431): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(432): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(433): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(434): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(435): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(455): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(587): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(588): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(592): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(593): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(614): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(615): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(619): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(620): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(943): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(945): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(995): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(1053): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(1066): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(1079): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(1092): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(1154): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1187): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1199): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1226): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1430): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1431): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1435): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1436): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1457): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1458): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1462): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1463): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>mips1.cpp(1779): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1789): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1807): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1835): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1863): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1891): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1909): warning C4244: “初始化”: 从“__int64”转换到“char”，可能丢失数据
+     1>mips1.cpp(1920): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1927): warning C4244: “初始化”: 从“__int64”转换到“char”，可能丢失数据
+     1>mips1.cpp(1939): warning C4244: “初始化”: 从“__int64”转换到“short”，可能丢失数据
+     1>mips1.cpp(1950): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1957): warning C4244: “初始化”: 从“__int64”转换到“short”，可能丢失数据
+     1>mips1.cpp(1969): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1980): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(1987): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2015): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2051): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(2063): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2100): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2114): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(2127): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(2140): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(2153): warning C4018: “<”: 有符号/无符号不匹配
+     1>mips1.cpp(2215): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2248): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2260): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>mips1.cpp(2655): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+       Link:
+         F:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Release\MIPS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Release\MIPS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Release\MIPS.lib" /MACHINE:X86 /SAFESEH Release\mips1.obj
+         正在生成代码
+         3 of 522 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         MIPS.vcxproj -> D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Release\MIPS.exe
+     1>已完成生成项目“D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\MIPS\MIPS.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.42

@@ -1,0 +1,8 @@
+.data
+_static_1:
+.word 31
+.text
+main:
+lb $t0, _static_1
+li $v0, 10
+syscall

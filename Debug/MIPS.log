@@ -1,0 +1,105 @@
+﻿生成启动时间为 2017/7/6 22:41:41。
+     1>项目“D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\MIPS\MIPS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt mips1.cpp
+         mips1.cpp
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(336): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(337): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(338): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(340): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(342): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(344): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(345): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(346): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(347): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(348): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(397): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(423): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(424): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(425): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(427): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(429): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(431): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(432): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(433): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(434): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(435): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(455): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(587): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(588): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(592): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(593): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(614): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(615): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(619): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(620): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(943): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(945): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(995): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1053): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1066): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1079): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1092): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1154): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1187): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1199): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1226): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1427): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1428): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1432): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1433): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1454): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1455): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1459): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1460): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1776): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1786): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1804): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1832): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1860): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1888): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1906): warning C4244: “初始化”: 从“__int64”转换到“char”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1917): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1924): warning C4244: “初始化”: 从“__int64”转换到“char”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1936): warning C4244: “初始化”: 从“__int64”转换到“short”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1947): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1954): warning C4244: “初始化”: 从“__int64”转换到“short”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1966): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1977): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1984): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2012): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2048): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2060): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2097): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2111): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2124): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2137): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2150): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2212): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2245): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2257): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(2652): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(587): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(588): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(592): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(593): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(614): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(615): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(619): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(620): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1427): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1428): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1432): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1433): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1454): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1455): warning C4723: 潜在的被 0 除
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1459): warning C4724: 潜在的以 0 求模
+     1>d:\~rayciel\study\cpp\ppca\mips\mips\mips\mips1.cpp(1460): warning C4723: 潜在的被 0 除
+       Link:
+         F:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Debug\MIPS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Debug\MIPS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Debug\MIPS.lib" /MACHINE:X86 Debug\mips1.obj
+         MIPS.vcxproj -> D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\Debug\MIPS.exe
+     1>已完成生成项目“D:\~RayCiel\Study\CPP\PPCA\MIPS\MIPS\MIPS\MIPS.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.33
